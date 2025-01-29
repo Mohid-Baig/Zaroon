@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555101366113",
+    "project_id": "zaroon-3c1f4",
+    "storage_bucket": "zaroon-3c1f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555101366113:android:99158f2c149fe029eb4720",
+        "android_client_info": {
+          "package_name": "com.idlogixtech.zaroon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE_Ao3i0_epqQCJYy5uxXZ-dR08pPuZ-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
